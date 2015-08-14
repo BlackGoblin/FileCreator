@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}All rights reserved for the author.
+${licensePrefix}Free for personal use.
+<#if licenseLast??>
+${licenseLast}
+</#if>
